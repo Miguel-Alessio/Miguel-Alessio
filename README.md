@@ -32,14 +32,5 @@ I'm an undergraduate Computer Science student passionate about **Systems Program
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miguel-Alessio&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Alessio&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 * **Email:** essio.pg@gmail.com
