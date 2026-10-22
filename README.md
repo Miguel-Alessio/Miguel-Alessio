@@ -27,8 +27,8 @@ I'm an undergraduate Computer Science student passionate about **Systems Program
 ### 🔥 Featured Projects
 
 * **[In-Memory Search Engine](https://github.com/Miguel-Alessio/in-memory-search-engine)**: A fast, lightweight text-indexing system built entirely in C using Tries, Heaps, and Doubly Linked Lists for $O(w)$ lookups and TOP-K relevance retrieval.
-* **[x86-64 Assembly Algorithmic Toolkit](https://github.com/Miguel-Alessio/x64-assembly-algorithms)**: A collection of bare-metal algorithms (including a 2D maze solver and custom struct sorters) written in pure x86-64 Assembly, demonstrating a deep understanding of memory offsets and the System V AMD64 ABI.
-* **[Sparse-View CT Reconstruction](https://github.com/Miguel-Alessio/medical-imaging-cgls)**: An adaptive, from-scratch implementation of a Computed Tomography reconstruction algorithm using Conjugate Gradient Least Squares (CGLS) and Total Variation denoising.
+* **[x86-64 Assembly Algorithmic Toolkit](https://github.com/Miguel-Alessio/x86-64-Assembly-Algorithmic-Toolkit)**: A collection of bare-metal algorithms (including a 2D maze solver and custom struct sorters) written in pure x86-64 Assembly, demonstrating a deep understanding of memory offsets and the System V AMD64 ABI.
+* **[Sparse-View CT Reconstruction](https://github.com/Miguel-Alessio/Sparse-View-CT-Reconstruction)**: An adaptive, from-scratch implementation of a Computed Tomography reconstruction algorithm using Conjugate Gradient Least Squares (CGLS) and Total Variation denoising.
 
 ---
 
