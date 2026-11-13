@@ -14,7 +14,7 @@ I like finding out *why* something breaks, whether it's a bug, a misbehaving mod
 
 ### Featured Projects
 
-** Security & AI**
+**Security & AI**
 * **[Mini-SOC: Detection & Automated Response Lab](https://github.com/Miguel-Alessio/mini-soc-lab)**: a two-node SIEM/SOAR on Raspberry Pis. A hardened rsyslog pipeline streams SSH and Nginx logs to a Python detection engine with MITRE ATT&CK-mapped rules: brute force (T1110.001), LFI/SQLi (T1190) and compromised accounts (T1078.003), which catches slow attackers below the brute-force threshold. Attacker IPs are blocked through iptables within seconds and live sessions get cut. The engine is hardened too (no command injection, safe SSH handling, log-rotation support) and every scenario was verified on real hardware.
 * **[Qwen-7B Chess Fine-Tuning](https://github.com/Miguel-Alessio/qwen-chess-lora)**: LoRA fine-tuning (BF16) of Qwen-7B on ~192,000 games to generate moves in SAN, trained on an NVIDIA A100 via Modal (12,000 steps, final loss 0.43). Built during the ROSEdu CDL open-source program; weights published.
 * **[Edge Vision Alarm](https://github.com/Miguel-Alessio/edge-vision-alarm)**: person detection on a Raspberry Pi 3 with YOLOv8 (ONNX) and OpenCV. It publishes alarm state over MQTT, saves annotated frames and runs with Docker Compose.
